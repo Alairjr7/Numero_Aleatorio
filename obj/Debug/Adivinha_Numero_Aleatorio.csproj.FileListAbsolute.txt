@@ -1,0 +1,7 @@
+C:\Users\Diego\Documents\Projetos\ROJETOS BACKEND\Adivinha_Numero_Aleatorio\bin\Debug\Adivinha_Numero_Aleatorio.exe.config
+C:\Users\Diego\Documents\Projetos\ROJETOS BACKEND\Adivinha_Numero_Aleatorio\bin\Debug\Adivinha_Numero_Aleatorio.exe
+C:\Users\Diego\Documents\Projetos\ROJETOS BACKEND\Adivinha_Numero_Aleatorio\bin\Debug\Adivinha_Numero_Aleatorio.pdb
+C:\Users\Diego\Documents\Projetos\ROJETOS BACKEND\Adivinha_Numero_Aleatorio\obj\Debug\Adivinha_Numero_Aleatorio.csproj.AssemblyReference.cache
+C:\Users\Diego\Documents\Projetos\ROJETOS BACKEND\Adivinha_Numero_Aleatorio\obj\Debug\Adivinha_Numero_Aleatorio.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Documents\Projetos\ROJETOS BACKEND\Adivinha_Numero_Aleatorio\obj\Debug\Adivinha_Numero_Aleatorio.exe
+C:\Users\Diego\Documents\Projetos\ROJETOS BACKEND\Adivinha_Numero_Aleatorio\obj\Debug\Adivinha_Numero_Aleatorio.pdb
